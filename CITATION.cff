@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, data, or analysis framework in your research, please cite the paper below."
+authors:
+  - family-names: "Bhongade"
+    given-names: "Aanchala"
+    orcid: "https://orcid.org" # Optional: Replace with your ORCID if available
+title: "Lethal-Heatwaves-India-Cooling-Demand"
+version: "1.0.0"
+date-released: 2026-09-25
+url: "https://github.com" # Update with your live repository URL
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bhongade"
+      given-names: "Aanchala"
+  title: "The Unequal Impact of Lethal Heatwaves in India for Males and Females: Insights from Climate Projection Data"
+  journal: "The Cambridge Journal of Climate Research"
+  volume: 2
+  issue: 1
+  pages: "182-194"
+  year: 2026
+  publisher: "University of Cambridge"
