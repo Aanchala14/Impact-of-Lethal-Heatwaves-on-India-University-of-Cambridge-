@@ -1,23 +1,39 @@
 cff-version: 1.2.0
 message: "If you use this software, data, or analysis framework in your research, please cite the paper below."
+type: dataset
+title: "Lethal-Heatwaves-India-Cooling-Demand"
+version: "1.0.0"
+date-released: 2025-05-01
+doi: 10.60866/CAM.241
+license: MIT
+repository-code: "https://github.com/Aanchala14/Impact-of-Lethal-Heatwaves-on-India-University-of-Cambridge-"
+url: "https://doi.org/10.60866/CAM.241"
 authors:
   - family-names: "Bhongade"
     given-names: "Aanchala"
-title: "Lethal-Heatwaves-India-Cooling-Demand"
-version: "1.0.0"
-month-released: 2025-05
-DOI: 10.60866/CAM.241
-google-scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8bAdVuEAAAAJ
-url: "https://github.com/Aanchala14/Impact-of-Lethal-Heatwaves-on-India-University-of-Cambridge-.git"
+    affiliation: "University of Cambridge"
+    website: "https://scholar.google.com/citations?user=8bAdVuEAAAAJ&hl=en"
+keywords:
+  - heatwaves
+  - heat index
+  - CMIP6
+  - cooling demand
+  - gender
+  - India
 preferred-citation:
   type: article
   authors:
     - family-names: "Bhongade"
       given-names: "Aanchala"
+      affiliation: "University of Cambridge"
   title: "The Unequal Impact of Lethal Heatwaves in India for Males and Females: Insights from Climate Projection Data"
   journal: "The Cambridge Journal of Climate Research"
   volume: 2
   issue: 1
-  pages: "182-194"
+  start: 182
+  end: 194
   year: 2025
-  publisher: "University of Cambridge"
+  publisher:
+    name: "University of Cambridge"
+  doi: 10.60866/CAM.241
+  url: "https://doi.org/10.60866/CAM.241"
