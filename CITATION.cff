@@ -5,7 +5,8 @@ authors:
     given-names: "Aanchala"
 title: "Lethal-Heatwaves-India-Cooling-Demand"
 version: "1.0.0"
-date-released: 2025-05-20
+month-released: 2025-05
+DOI: 10.60866/CAM.241
 url: "https://github.com/Aanchala14/Impact-of-Lethal-Heatwaves-on-India-University-of-Cambridge-.git"
 preferred-citation:
   type: article
